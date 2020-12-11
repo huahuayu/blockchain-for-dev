@@ -4,6 +4,22 @@
 
 https://docs.google.com/presentation/d/1EqRSW_3_95Aaid_zh6xVMKUgCfc-uoYyGqlOgcPVQwI/edit?usp=sharing
 
+## import your private key in metamask wallet
+
+step1: install metamask chrome extension (https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
+
+step2: select your mnemonic word and create a new wallet (**keep your mnemonic word safe!**)
+
+step3: change network to ropsten network (default is mainnet)
+
+step4: import your private key
+
+![](https://cdn.liushiming.cn/img/20201211154008.png)
+
+## get test coin
+
+google search `ropsten faucet` or `testnet faucet`, provide your testnet address, they will send you some ether for test. 
+
 ## blockchain demo
 
 ```bash

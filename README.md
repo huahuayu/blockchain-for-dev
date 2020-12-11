@@ -14,9 +14,9 @@ visit demo at http://localhost:3000
 
 ## ClassmateDao
 
-ERC20 合约：
+ERC20 合约：`src/ERC20Token.sol`
 
-批量转账合约：
+批量转账合约：`src/BatchTransfer.sol`
 
 ## 工具
 

@@ -2,6 +2,8 @@
 
 ## slides
 
+https://docs.google.com/presentation/d/1EqRSW_3_95Aaid_zh6xVMKUgCfc-uoYyGqlOgcPVQwI/edit?usp=sharing
+
 ## blockchain demo
 
 ```bash
@@ -90,3 +92,7 @@ Slack （golang 的社区是 Slack，质量很高）
 Blockchain Seminar / 区块链技术交流群
 
 请联系刘世明拉进群。
+
+## License
+
+Internal use only.

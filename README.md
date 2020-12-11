@@ -30,6 +30,10 @@ docker-compose up -d
 
 visit demo at http://localhost:3000
 
+## address-generator
+
+https://github.com/huahuayu/address-generator
+
 ## ClassmateDao
 
 ERC20 合约：`src/ERC20Token.sol`
